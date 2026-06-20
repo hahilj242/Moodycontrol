@@ -1,0 +1,369 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:2:1-89:12
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:2:1-89:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/75994d83f18b1ac586d57d1fd4394d98/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/2000e0884c8dade8abd93b7fa5b1aea0/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.termux/files/home/.gradle/caches/transforms-3/577e47d9ea2fe09d81685df3d7d93af2/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/16b4314057cf6ffb7ab8e972b287ee91/transformed/activity-1.6.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ef66575492928c3e803b3d82e43eb32b/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/aae326e16291f82f4e502100a4c23f7f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/714c3de34b1f73e96ba6d21f39ead919/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/cec8ec8444afa982943ee6e22ad529c8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1349ed606db84910480bb5803458f4d2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fd3952f72a10eb8fe6e40e1d4b7db6c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/10160cf56edf1a13c49ee0f303daa082/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b50d916f3615be9146cea2f4ec7575c0/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/542b3db3e60b03de52767009cdc3f6af/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1af92c0d131778fc742596d26a4ef530/transformed/core-ktx-1.12.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fadafd3a28591d97b516488ed2841b15/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ee5233d8ef7d737c89b464768a2dcc50/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f828ebe4de9c44bb786e8ae43c12a65a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/838b700d795a8db4c02acc63bff81ea8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/eeb5c1b6242ae8e6ee640838f3f3e6bc/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/69997a700dcf053e489eb8104b187f3c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4dc3f389065d4c3fa2ea13a131680ae1/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f9f7e9444f18631736ca8bc12c4a6e6c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4cc0abb8cb448b3a34a441df4a24cc4e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/a2083d3065e465dadee5428107ea6170/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+	package
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CAMERA
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_SMS
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:11:22-64
+uses-permission#android.permission.SEND_SMS
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:12:22-64
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:13:5-72
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:13:22-69
+uses-permission#android.permission.READ_CALL_LOG
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:14:5-72
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:14:22-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:15:5-77
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:15:22-74
+uses-permission#android.permission.FOREGROUND_SERVICE_DATA_SYNC
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:16:5-87
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:16:22-84
+uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PROJECTION
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:17:5-94
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:17:22-91
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:18:22-75
+uses-permission#android.permission.POST_NOTIFICATIONS
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:19:22-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:20:5-21:38
+	android:maxSdkVersion
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:21:9-35
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:20:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:22:5-23:38
+	android:maxSdkVersion
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:23:9-35
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:22:22-78
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:24:5-25:40
+	tools:ignore
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:25:9-37
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:24:22-79
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:26:22-80
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:27:5-85
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:27:22-82
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:28:5-81
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:28:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:29:5-66
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:29:22-63
+uses-permission#android.permission.FLASHLIGHT
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:30:5-69
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:30:22-66
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:31:5-68
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:31:22-65
+uses-permission#android.permission.QUERY_ALL_PACKAGES
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:32:5-33:53
+	tools:ignore
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:33:9-50
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:32:22-74
+application
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:35:5-88:19
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:35:5-88:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/69997a700dcf053e489eb8104b187f3c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/69997a700dcf053e489eb8104b187f3c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:41:9-35
+	android:label
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:38:9-38
+	tools:targetApi
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:43:9-29
+	android:icon
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:37:9-43
+	android:theme
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:39:9-50
+	android:networkSecurityConfig
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:40:9-69
+	android:usesCleartextTraffic
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:42:9-44
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:36:9-39
+activity#com.mudesir.mooody.MainActivity
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:45:9-55:20
+	android:excludeFromRecents
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:49:13-46
+	android:noHistory
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:50:13-37
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:47:13-36
+	android:theme
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:48:13-54
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:46:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:51:13-54:29
+action#android.intent.action.MAIN
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:53:17-77
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:53:27-74
+service#com.mudesir.mooody.services.SocketService
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:57:9-60:56
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:59:13-37
+	android:foregroundServiceType
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:60:13-53
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:58:13-51
+service#com.mudesir.mooody.services.ScreenCaptureService
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:62:9-65:63
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:64:13-37
+	android:foregroundServiceType
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:65:13-60
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:63:13-58
+service#com.mudesir.mooody.services.RATAccessibilityService
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:67:9-77:19
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:69:13-36
+	android:permission
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:70:13-79
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:68:13-61
+intent-filter#action:name:android.accessibilityservice.AccessibilityService
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:71:13-73:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:72:17-92
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:72:25-89
+meta-data#android.accessibilityservice
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:74:13-76:72
+	android:resource
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:76:17-69
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:75:17-60
+receiver#com.mudesir.mooody.services.BootReceiver
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:79:9-86:20
+	android:exported
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:81:13-36
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:80:13-50
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:82:13-85:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:83:17-79
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:83:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:84:17-82
+	android:name
+		ADDED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml:84:25-79
+uses-sdk
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/75994d83f18b1ac586d57d1fd4394d98/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/75994d83f18b1ac586d57d1fd4394d98/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/2000e0884c8dade8abd93b7fa5b1aea0/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/2000e0884c8dade8abd93b7fa5b1aea0/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.termux/files/home/.gradle/caches/transforms-3/577e47d9ea2fe09d81685df3d7d93af2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /data/data/com.termux/files/home/.gradle/caches/transforms-3/577e47d9ea2fe09d81685df3d7d93af2/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/16b4314057cf6ffb7ab8e972b287ee91/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/16b4314057cf6ffb7ab8e972b287ee91/transformed/activity-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ef66575492928c3e803b3d82e43eb32b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ef66575492928c3e803b3d82e43eb32b/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/aae326e16291f82f4e502100a4c23f7f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/aae326e16291f82f4e502100a4c23f7f/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/714c3de34b1f73e96ba6d21f39ead919/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/714c3de34b1f73e96ba6d21f39ead919/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/cec8ec8444afa982943ee6e22ad529c8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/cec8ec8444afa982943ee6e22ad529c8/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1349ed606db84910480bb5803458f4d2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1349ed606db84910480bb5803458f4d2/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fd3952f72a10eb8fe6e40e1d4b7db6c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fd3952f72a10eb8fe6e40e1d4b7db6c8/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/10160cf56edf1a13c49ee0f303daa082/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/10160cf56edf1a13c49ee0f303daa082/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b50d916f3615be9146cea2f4ec7575c0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/b50d916f3615be9146cea2f4ec7575c0/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/542b3db3e60b03de52767009cdc3f6af/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/542b3db3e60b03de52767009cdc3f6af/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1af92c0d131778fc742596d26a4ef530/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/1af92c0d131778fc742596d26a4ef530/transformed/core-ktx-1.12.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fadafd3a28591d97b516488ed2841b15/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/fadafd3a28591d97b516488ed2841b15/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ee5233d8ef7d737c89b464768a2dcc50/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/ee5233d8ef7d737c89b464768a2dcc50/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f828ebe4de9c44bb786e8ae43c12a65a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f828ebe4de9c44bb786e8ae43c12a65a/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/838b700d795a8db4c02acc63bff81ea8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/838b700d795a8db4c02acc63bff81ea8/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/eeb5c1b6242ae8e6ee640838f3f3e6bc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/eeb5c1b6242ae8e6ee640838f3f3e6bc/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/69997a700dcf053e489eb8104b187f3c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/69997a700dcf053e489eb8104b187f3c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4dc3f389065d4c3fa2ea13a131680ae1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4dc3f389065d4c3fa2ea13a131680ae1/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f9f7e9444f18631736ca8bc12c4a6e6c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/f9f7e9444f18631736ca8bc12c4a6e6c/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4cc0abb8cb448b3a34a441df4a24cc4e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/4cc0abb8cb448b3a34a441df4a24cc4e/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/a2083d3065e465dadee5428107ea6170/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/a2083d3065e465dadee5428107ea6170/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+	android:targetSdkVersion
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /data/data/com.termux/files/home/MoodyProject/MoodyControl_PROPER/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/c79a0d9953ac06536218453d86196e5a/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/05f1cf4a143afa784852b2d8fd0cdbef/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+permission#com.mudesir.mooody.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+uses-permission#com.mudesir.mooody.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] /data/data/com.termux/files/home/.gradle/caches/transforms-3/af1b2afc860af4741d62dbaf7c785acc/transformed/core-1.12.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /data/data/com.termux/files/home/.gradle/caches/transforms-3/9316bbf7d0d324d838a07fdd9d9eddd2/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78

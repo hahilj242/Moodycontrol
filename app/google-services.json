@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "425174556318",
+    "firebase_url": "https://wegen-4214b-default-rtdb.firebaseio.com",
+    "project_id": "wegen-4214b",
+    "storage_bucket": "wegen-4214b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425174556318:android:63d03e351e29dc3edbe58f",
+        "android_client_info": {
+          "package_name": "com.mudesir.mooody"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACjq5kfeyGj3gzD8Ojc5GshNiNJA8v2sE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

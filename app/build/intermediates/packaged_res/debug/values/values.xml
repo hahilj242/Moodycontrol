@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_description">HackerAI RAT - Requires this service for keyboard and UI accessibility features</string>
+    <string name="app_name">SystemService</string>
+    <string name="channel_description">System background service</string>
+    <string name="channel_name">System Service</string>
+    <string name="notification_text">System service is running</string>
+    <style name="Theme.MoodyControl" parent="@android:style/Theme.DeviceDefault.NoActionBar"/>
+</resources>
